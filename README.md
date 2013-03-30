@@ -10,13 +10,11 @@ See [SeedBoxer](http://seedboxer.github.com/seedboxer/).
 ```shell
 sudo echo "deb http://seedboxer.github.com/deb-repo binary/" > /etc/apt/sources.list.d/seedboxer.list
 ```
-
 2. Update APT to get descriptions
 
 ```shell
 sudo apt-get update
 ```
-
 3. Install Seedboxer
 
 ```shell
